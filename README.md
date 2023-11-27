@@ -5,7 +5,7 @@ This project contains a Python application with the tech test for Beremberg. The
 These instructions will cover how to get your application up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-Before you begin, ensure you have Docker installed on your system. If you do not have Docker installed
+Before you begin, ensure you have Docker installed on your system.
 
 ### Running the Application
 
