@@ -1,4 +1,4 @@
-# Berember tech test
+# Berenber tech test
 This project contains a Python application with the tech test for Beremberg. The application's functionality is defined in pipeline.py, and the Behave tests are located in the features directory.
 
 ## Getting Started
