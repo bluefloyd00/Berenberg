@@ -1,5 +1,5 @@
 # Berenber tech test
-This project contains a Python application with the tech test for Beremberg. The application's functionality is defined in pipeline.py, and the Behave tests are located in the features directory.
+This project contains a Python application with the tech test for Berenberg. The application's functionality is defined in pipeline.py, and the Behave tests are located in the features directory.
 
 ## Getting Started
 These instructions will cover how to get your application up and running on your local machine for development and testing purposes.
@@ -15,7 +15,7 @@ To run the application inside a Docker container, follow these steps:
    If you haven't already cloned the repository, do so with:
    ```bash
    git clone https://github.com/bluefloyd00/Berenberg.git
-   cd Beremberg
+   cd Berenberg
    ```
 
 
